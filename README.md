@@ -1,6 +1,6 @@
 ## WeatherWise (Built with React, Nextjs 13, and Styled with TailwindCSS  )
 <img src="shot1.png" width=900 />
-<img src="shot02.png" width=900 />
+<img src="shot2.png" width=900 />
 
 ## About WeatherWise 
 
