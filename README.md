@@ -1,21 +1,38 @@
-# WeatherWise (Built with React, Nextjs 13 and Styled with TailwindCSS  )
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
-
-<img src="./demo/shot01.PNG" width=900>
-<img src="./demo/shot02.PNG" width=900>
-
+## WeatherWise (Built with React, Nextjs 13, and Styled with TailwindCSS  )
+<img src="shot1.png" width=900 />
+<img src="shot02.png" width=900 />
 
 ## About WeatherWise 
 
-Weatherwise is dynamic web application that gives a seamless experience in realtime. 
-You can can search for the current weather information on any major city across the world!
+Weatherwise is a dynamic web application that gives a seamless experience in real time. 
+You can search for the current weather information on any major city across the world!
 Check out the live project here : 
 
 ## Getting Started
 
-First, run the development server:
+- First, clone the project:
+
+```bash
+git clone weatherwise https://github.com/philipObiri/WeatherWise.git
+```
+
+- Please make sure you switch to the directory that has just been created (If haven't):
+
+```bash
+cd WeatherWise
+```
+
+- Install the needed packages:
+```bash
+npm install
+```
+
+
+- Create an environment file by changing the name of the .env_example file in the project directory to .env
+
+- Sign up with Open Weather and get a SECRET API KEY.
+  
+- Run the development server.
 
 ```bash
 npm run dev
